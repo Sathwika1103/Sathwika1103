@@ -13,6 +13,6 @@ Here's an overview of my skill set:
 ### Get in touch
 If you have any questions, collaboration opportunities, or simply want to reach out, feel free to connect with me:
 - 📧 Email: [gavva.1@iitj.ac.in](gavva.1@iitj.ac.in)
-- 💼 LinkedIn: [Sathwika Gavva](https://www.linkedin.com/in/gauravsangwan)
+- 💼 LinkedIn: [Sathwika Gavva](https://www.linkedin.com/in/sathwika-gavva)
 
 Thank you for taking the time to visit my GitHub profile and reading this README! I am excited to continue learning, exploring, and contributing to the world of ML and Web Development. Let's connect and collaborate!
