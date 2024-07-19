@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Sathwika Gavva! 👋
 
-<!--
-**Sathwika1103/Sathwika1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a CSE undergraduate student at [IIT Jodhpur](https://www.iitj.ac.in) with a passion for Machine Learning and Web Development. I enjoy working on projects that involve implementation and learning through hands-on experience. I have been actively contributing to the GitHub community and have created 13 public repositories. My GitHub portfolio showcases my skills in various programming languages, including React, Node, Python, C++, MATLAB, and more..
 
-Here are some ideas to get you started:
+### Skills
+Here's an overview of my skill set:
+- Programming Languages: Python, C++, MySQL, C#
+- Web Development: ReactJS, HTML, CSS, JavaScript, PHP
+- Machine Learning and Deep Learning frameworks: Pytorch, TensorFlow, Sklearn
+- Data Visualization: Matplotlib, Seaborn, Plotly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch
+If you have any questions, collaboration opportunities, or simply want to reach out, feel free to connect with me:
+- 📧 Email: [gavva.1@iitj.ac.in](gavva.1@iitj.ac.in)
+- 💼 LinkedIn: [Sathwika Gavva](https://www.linkedin.com/in/gauravsangwan)
+
+Thank you for taking the time to visit my GitHub profile and reading this README! I am excited to continue learning, exploring, and contributing to the world of ML and Web Development. Let's connect and collaborate!
